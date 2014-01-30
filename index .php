@@ -1,7 +1,7 @@
 <?php
 /*
 * Title: Zatika.co Script
-* Author: Zatika
+* Author: Zatika.co
 * Version: 1.0
 *
 * Performance rating = [(Total of opponents' ratings + 400 * (Wins - Losses)) / score].
